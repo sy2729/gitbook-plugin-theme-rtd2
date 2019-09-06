@@ -1,0 +1,40 @@
+{
+  "name": "gitbook-plugin-theme-rtd2",
+  "description": "A port of Read the Docs theme for GitBook",
+  "main": "./index.js",
+  "version": "0.3.3",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sy2729/gitbook-plugin-theme-rtd2.git"
+  },
+  "author": "sy2729 <sy2729@tc.columbia.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sy2729/gitbook-plugin-theme-rtd2/issues"
+  },
+  "contributors": [
+    {
+      "name": "sy2729",
+      "email": "sy2729@tc.columbia.edu"
+    },
+    {
+      "name": "bigeyex",
+      "email": "bigeyex@gmail.com"
+    },
+    {
+      "name": "readthedocs.org",
+      "email": "dev@readthedocs.org"
+    },
+    {
+      "name": "Samy Pessé",
+      "email": "samy@gitbook.com"
+    }
+  ],
+  "gitbook": {}
+}
